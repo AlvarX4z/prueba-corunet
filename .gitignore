@@ -1,0 +1,7 @@
+# ROOT
+
+/.idea
+/target
+
+mvnw
+mvnw.cmd
